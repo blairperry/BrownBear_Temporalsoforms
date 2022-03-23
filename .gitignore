@@ -18,6 +18,7 @@
 .Rapp.history
 
 # Session Data files
+/analyses/isoformSwitchAnalyzeR/*RData
 .RData
 
 # User-specific files
