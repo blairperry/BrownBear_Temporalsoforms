@@ -32,9 +32,14 @@ The following software was used processing and analysis:
   - IsoformSwitchAnalyzeR v1.16.0 (isoform analysis and plotting)
 
 ## Contents
-- [Expression quantification](#isoform-level-expression-quantification-with-Kallisto)
-
-  **CHECK THAT THESE LINKS WORK**
+1. [Expression quantification](#1-isoform-level-expression-quantification-with-kallisto)
+2. [Formatting tappAS input files](#2-formatting-kallisto-results-for-input-into-tappas)
+3. [Differential isoform usage and gene expression analyses in tappAS](#3-analyses-of-differential-isoform-usage-and-gene-expression-in-tappas)
+4. [Plotting differential isoform usage results](4-plotting-of-differential-isoform-usage-diu-results)
+5. [Comparing differential isoform usage and gene-level expression](#5-comparisons-of-genes-with-differential-expression-and-differential-isoform-usage)
+6. [GO term analysis](#6-gene-ontology-go-overrepresentation-analyses)
+7. [Candidate gene analysis: insulin signaling genes](#7-analysis-of-insulin-signaling-candidate-genes)
+8. [Characterizing protein domains in isoform switches](https://github.com/blairperry/BrownBear_Temporalsoforms#8-additional-characterization-of-isoform-switches)
 
 ---
 ### 1. Isoform-level expression quantification with Kallisto
