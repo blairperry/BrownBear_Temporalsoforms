@@ -1,0 +1,367 @@
+
+PC00235	HUMAN|HGNC=15514|UniProtKB=Q13492	vesicle coat protein	membrane traffic protein		330
+GO:0015711	HUMAN|HGNC=30225|UniProtKB=Q9NWF4	organic anion transport	anion transport	carboxylic acid transport	331
+GO:0005783	HUMAN|HGNC=3133|UniProtKB=Q15125,HUMAN|HGNC=3569|UniProtKB=P33121,HUMAN|HGNC=1546|UniProtKB=P50454	endoplasmic reticulum	cytoplasm	endoplasmic reticulum exit site;endoplasmic reticulum lumen;endoplasmic reticulum subcompartment;rough endoplasmic reticulum;endoplasmic reticulum protein-containing complex;sarcoplasmic reticulum	2385
+GO:0005739	HUMAN|HGNC=2973|UniProtKB=O00429,HUMAN|HGNC=117|UniProtKB=P21399,HUMAN|HGNC=17586|UniProtKB=Q9NZJ7,HUMAN|HGNC=4908|UniProtKB=Q6NVY1,HUMAN|HGNC=17587|UniProtKB=Q9Y6C9	mitochondrion	cytoplasm	mitochondrial matrix;mitochondrial envelope;mitochondrial protein-containing complex	2490
+GO:0000038	HUMAN|HGNC=3569|UniProtKB=P33121	very long-chain fatty acid metabolic process	fatty acid metabolic process		89
+GO:0005546	HUMAN|HGNC=15514|UniProtKB=Q13492	phosphatidylinositol-4,5-bisphosphate binding	anion binding		94
+GO:0022607	HUMAN|HGNC=14085|UniProtKB=Q9NQC3	cellular component assembly	cellular component biogenesis	intermediate filament bundle assembly;cell junction assembly;organelle assembly;protein-containing complex assembly;cellular component assembly involved in morphogenesis;synaptonemal complex assembly;membrane assembly;iron-sulfur cluster assembly;axoneme assembly;actin filament bundle assembly;assembly of actomyosin apparatus involved in cytokinesis;chromatin assembly;division septum assembly;cell projection assembly;ciliary transition zone assembly	2655
+GO:0031966	HUMAN|HGNC=24865|UniProtKB=Q9HCL2	mitochondrial membrane	mitochondrial envelope	intrinsic component of mitochondrial membrane;mitochondrial inner membrane;mitochondrial outer membrane	814
+GO:0019200	HUMAN|HGNC=8872|UniProtKB=P16118	carbohydrate kinase activity	kinase activity		146
+GO:0043065	HUMAN|HGNC=17586|UniProtKB=Q9NZJ7,HUMAN|HGNC=17587|UniProtKB=Q9Y6C9	positive regulation of apoptotic process	positive regulation of programmed cell death	positive regulation of apoptotic signaling pathway	76
+GO:0016592	HUMAN|HGNC=32687|UniProtKB=Q9P086	mediator complex	nuclear protein-containing complex		110
+GO:0043604	HUMAN|HGNC=3569|UniProtKB=P33121,HUMAN|HGNC=15814|UniProtKB=Q9NR19,HUMAN|HGNC=115|UniProtKB=P53396	amide biosynthetic process	cellular nitrogen compound biosynthetic process	peptide biosynthetic process;ceramide biosynthetic process	1468
+GO:0016407	HUMAN|HGNC=4803|UniProtKB=P55084	acetyltransferase activity	acyltransferase activity, transferring groups other than amino-acyl groups	N-acetyltransferase activity	371
+GO:0007267	HUMAN|HGNC=19695|UniProtKB=Q14512	cell-cell signaling	cell communication	signal release;cell surface receptor signaling pathway involved in cell-cell signaling;synaptic signaling;cell-cell signaling by wnt	836
+GO:0030182	HUMAN|HGNC=14085|UniProtKB=Q9NQC3	neuron differentiation	generation of neurons	central nervous system neuron differentiation;neuron development	510
+PC00197	HUMAN|HGNC=4161|UniProtKB=Q14392,HUMAN|HGNC=5967|UniProtKB=Q14626	transmembrane signal receptor	protein class	G-protein coupled receptor;serine/threonine protein kinase receptor;tyrosine protein kinase receptor;histidine kinase receptor of two-component system	3871
+GO:0009074	HUMAN|HGNC=3579|UniProtKB=P16930	aromatic amino acid family catabolic process	organonitrogen compound catabolic process		66
+GO:0060070	HUMAN|HGNC=2451|UniProtKB=P48729	canonical Wnt signaling pathway	Wnt signaling pathway		174
+GO:0031012	HUMAN|HGNC=4161|UniProtKB=Q14392	extracellular matrix	external encapsulating structure	collagen-containing extracellular matrix	412
+GO:0042981	HUMAN|HGNC=1976|UniProtKB=O60543	regulation of apoptotic process	regulation of programmed cell death	regulation of apoptotic signaling pathway;positive regulation of apoptotic process;negative regulation of apoptotic process	209
+PC00040	HUMAN|HGNC=26234|UniProtKB=Q96H55	actin binding motor protein	actin or actin-binding cytoskeletal protein		158
+GO:0007007	HUMAN|HGNC=28727|UniProtKB=Q9BUR5	inner mitochondrial membrane organization	mitochondrial membrane organization	protein insertion into mitochondrial inner membrane	61
+GO:0005884	HUMAN|HGNC=4023|UniProtKB=P51114	actin filament	actin cytoskeleton		207
+PC00224	HUMAN|HGNC=16889|UniProtKB=O00487	translation initiation factor	translation factor		519
+GO:1901605	HUMAN|HGNC=4908|UniProtKB=Q6NVY1	alpha-amino acid metabolic process	cellular amino acid metabolic process	aspartate family amino acid metabolic process;glutamine family amino acid metabolic process;tyrosine metabolic process;alpha-amino acid biosynthetic process	733
+GO:0030048	HUMAN|HGNC=26234|UniProtKB=Q96H55	actin filament-based movement	movement of cell or subcellular component	actin-mediated cell contraction	98
+GO:0003341	HUMAN|HGNC=24483|UniProtKB=Q9Y4R7	cilium movement	microtubule-based movement	cilium movement involved in cell motility;epithelial cilium movement involved in extracellular fluid movement	74
+GO:0043197	HUMAN|HGNC=4023|UniProtKB=P51114	dendritic spine	dendrite		47
+GO:0000978	HUMAN|HGNC=783|UniProtKB=P18846,HUMAN|HGNC=9236|UniProtKB=P37231	RNA polymerase II cis-regulatory region sequence-specific DNA binding	cis-regulatory region sequence-specific DNA binding		2491
+PC00223	HUMAN|HGNC=4023|UniProtKB=P51114	translation factor	translational protein	translation release factor;translation initiation factor;translation elongation factor	627
+GO:0019216	HUMAN|HGNC=9236|UniProtKB=P37231	regulation of lipid metabolic process	regulation of primary metabolic process	regulation of lipid biosynthetic process	65
+GO:0046470	HUMAN|HGNC=3357|UniProtKB=Q13822	phosphatidylcholine metabolic process	glycerophospholipid metabolic process	phosphatidylcholine biosynthetic process	35
+GO:0005774	HUMAN|HGNC=23038|UniProtKB=Q9NUN5	vacuolar membrane	vacuole	plant-type vacuole membrane;lytic vacuole membrane	549
+GO:0016020	HUMAN|HGNC=28773|UniProtKB=Q86V20,HUMAN|HGNC=20815|UniProtKB=Q9Y4C1,HUMAN|HGNC=4801|UniProtKB=P40939,HUMAN|HGNC=29789|UniProtKB=Q9ULD2,HUMAN|HGNC=8919|UniProtKB=O43189,HUMAN|HGNC=2451|UniProtKB=P48729,HUMAN|HGNC=26234|UniProtKB=Q96H55,HUMAN|HGNC=598|UniProtKB=Q06481,HUMAN|HGNC=17586|UniProtKB=Q9NZJ7,HUMAN|HGNC=32687|UniProtKB=Q9P086,HUMAN|HGNC=1911|UniProtKB=Q13112,HUMAN|HGNC=783|UniProtKB=P18846,HUMAN|HGNC=9311|UniProtKB=Q13362,HUMAN|HGNC=2973|UniProtKB=O00429,HUMAN|HGNC=4298|UniProtKB=P16278,HUMAN|HGNC=10787|UniProtKB=Q13243,HUMAN|HGNC=117|UniProtKB=P21399,HUMAN|HGNC=30027|UniProtKB=Q6IE81,HUMAN|HGNC=4704|UniProtKB=P04921,HUMAN|HGNC=882|UniProtKB=Q13535,HUMAN|HGNC=1066|UniProtKB=P35226,HUMAN|HGNC=4908|UniProtKB=Q6NVY1,HUMAN|HGNC=17587|UniProtKB=Q9Y6C9	membrane	cellular anatomical entity	outer membrane;nuclear outer membrane-endoplasmic reticulum membrane network;plasma membrane region;extrinsic component of membrane;organelle membrane;membrane microdomain;membrane protein complex;coated membrane;intrinsic component of membrane;leaflet of membrane bilayer;respirasome;plasma membrane;photosynthetic membrane;side of membrane	36236
+GO:0042734	HUMAN|HGNC=15514|UniProtKB=Q13492	presynaptic membrane	presynapse		49
+GO:0006334	HUMAN|HGNC=1911|UniProtKB=Q13112	nucleosome assembly	chromatin assembly		118
+GO:0019637	HUMAN|HGNC=8872|UniProtKB=P16118	organophosphate metabolic process	organic substance metabolic process	organophosphate biosynthetic process;ribose phosphate metabolic process;glycerol-3-phosphate metabolic process;glucose 6-phosphate metabolic process;phospholipid metabolic process;organophosphate catabolic process;nucleoside phosphate metabolic process	1854
+GO:0006796	HUMAN|HGNC=8872|UniProtKB=P16118	phosphate-containing compound metabolic process	phosphorus metabolic process	ribose phosphate metabolic process;phosphorylation;glycerol-3-phosphate metabolic process;glucose 6-phosphate metabolic process;phospholipid metabolic process;dephosphorylation;nucleoside phosphate metabolic process	4670
+GO:0000077	HUMAN|HGNC=882|UniProtKB=Q13535	DNA damage checkpoint signaling	signal transduction in response to DNA damage	mitotic DNA damage checkpoint signaling	63
+GO:0043005	HUMAN|HGNC=14085|UniProtKB=Q9NQC3	neuron projection	plasma membrane bounded cell projection	dendrite;axon;kinocilium;photoreceptor outer segment;dendritic tree;neuron projection terminus;stereocilium;dendritic spine	828
+GO:0005844	HUMAN|HGNC=4023|UniProtKB=P51114	polysome	ribonucleoprotein complex		66
+GO:0006351	HUMAN|HGNC=16223|UniProtKB=Q86VX2,HUMAN|HGNC=8919|UniProtKB=O43189	transcription, DNA-templated	gene expression	mitochondrial transcription;DNA-templated transcription, elongation;transcription by RNA polymerase I;ncRNA transcription;DNA-templated transcription, initiation;transcription by RNA polymerase II;transcription by RNA polymerase III	6399
+GO:0030136	HUMAN|HGNC=15514|UniProtKB=Q13492	clathrin-coated vesicle	coated vesicle	clathrin vesicle coat;trans-Golgi network transport vesicle	157
+GO:0015629	HUMAN|HGNC=26234|UniProtKB=Q96H55	actin cytoskeleton	cytoskeleton	actin filament;Arp2/3 protein complex;cortical actin cytoskeleton;actomyosin;actin filament bundle	607
+GO:0035861	HUMAN|HGNC=28773|UniProtKB=Q86V20	site of double-strand break	chromosome		53
+GO:0016667	HUMAN|HGNC=2898|UniProtKB=P09622	oxidoreductase activity, acting on a sulfur group of donors	oxidoreductase activity	disulfide oxidoreductase activity	170
+GO:0000149	HUMAN|HGNC=15514|UniProtKB=Q13492	SNARE binding	protein binding	syntaxin binding	366
+GO:0003712	HUMAN|HGNC=20815|UniProtKB=Q9Y4C1	transcription coregulator activity	transcription regulator activity	transcription corepressor activity;transcription coactivator activity	599
+GO:0043161	HUMAN|HGNC=16889|UniProtKB=O00487	proteasome-mediated ubiquitin-dependent protein catabolic process	proteasomal protein catabolic process	ubiquitin-dependent ERAD pathway;SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	990
+GO:0090090	HUMAN|HGNC=2451|UniProtKB=P48729	negative regulation of canonical Wnt signaling pathway	regulation of canonical Wnt signaling pathway		59
+GO:0043488	HUMAN|HGNC=4023|UniProtKB=P51114	regulation of mRNA stability	regulation of mRNA catabolic process	mRNA stabilization;mRNA destabilization	239
+GO:0004721	HUMAN|HGNC=9311|UniProtKB=Q13362	phosphoprotein phosphatase activity	phosphatase activity	protein tyrosine phosphatase activity;protein serine/threonine phosphatase activity	607
+GO:0008287	HUMAN|HGNC=9311|UniProtKB=Q13362	protein serine/threonine phosphatase complex	catalytic complex		117
+GO:0090575	HUMAN|HGNC=783|UniProtKB=P18846	RNA polymerase II transcription regulator complex	transcription regulator complex	core mediator complex;transcription factor TFIIH holo complex;transcription factor TFIID complex;transcription factor TFIIH core complex	414
+GO:0008021	HUMAN|HGNC=15514|UniProtKB=Q13492	synaptic vesicle	presynapse	synaptic vesicle membrane	117
+PC00103	HUMAN|HGNC=2192|UniProtKB=P39059,HUMAN|HGNC=2201|UniProtKB=P02461	extracellular matrix structural protein	extracellular matrix protein		229
+GO:0098793	HUMAN|HGNC=4023|UniProtKB=P51114	presynapse	synapse	presynaptic active zone;synaptic vesicle;presynaptic membrane;axon terminus;terminal bouton	200
+GO:0006744	HUMAN|HGNC=25302|UniProtKB=O75208	ubiquinone biosynthetic process	organic substance biosynthetic process		54
+GO:0046395	HUMAN|HGNC=4908|UniProtKB=Q6NVY1	carboxylic acid catabolic process	organic acid catabolic process	monocarboxylic acid catabolic process;arginine catabolic process	537
+GO:0018193	HUMAN|HGNC=24483|UniProtKB=Q9Y4R7	peptidyl-amino acid modification	cellular protein modification process	peptidyl-lysine modification;peptidyl-threonine phosphorylation;peptidyl-tyrosine modification;protein N-linked glycosylation via asparagine;peptidyl-arginine modification;peptidyl-serine modification	1337
+GO:0003730	HUMAN|HGNC=4023|UniProtKB=P51114	mRNA 3'-UTR binding	mRNA binding		105
+GO:0042803	HUMAN|HGNC=4023|UniProtKB=P51114	protein homodimerization activity	identical protein binding		38
+GO:0031490	HUMAN|HGNC=20815|UniProtKB=Q9Y4C1	chromatin DNA binding	chromatin binding		186
+GO:0035735	HUMAN|HGNC=24483|UniProtKB=Q9Y4R7	intraciliary transport involved in cilium assembly	cilium assembly		272
+GO:0050660	HUMAN|HGNC=19708|UniProtKB=Q86WU2,HUMAN|HGNC=2898|UniProtKB=P09622	flavin adenine dinucleotide binding	nucleotide binding		248
+GO:0006099	HUMAN|HGNC=117|UniProtKB=P21399	tricarboxylic acid cycle	aerobic respiration		110
+PC00195	HUMAN|HGNC=9311|UniProtKB=Q13362,HUMAN|HGNC=16077|UniProtKB=Q9NRW4,HUMAN|HGNC=30263|UniProtKB=Q9P2J9	protein phosphatase	protein modifying enzyme		985
+GO:0001558	HUMAN|HGNC=10724|UniProtKB=Q13214	regulation of cell growth	regulation of growth	positive regulation of cell growth	54
+GO:0008637	HUMAN|HGNC=2973|UniProtKB=O00429	apoptotic mitochondrial changes	apoptotic process		20
+GO:0048489	HUMAN|HGNC=15514|UniProtKB=Q13492	synaptic vesicle transport	establishment of vesicle localization		13
+PC00102	HUMAN|HGNC=15788|UniProtKB=Q96DT0,HUMAN|HGNC=6492|UniProtKB=P11047,HUMAN|HGNC=6490|UniProtKB=Q13751,HUMAN|HGNC=6487|UniProtKB=P55268	extracellular matrix protein	protein class	extracellular matrix structural protein;extracellular matrix glycoprotein;extracellular matrix linker protein	287
+GO:0060491	HUMAN|HGNC=4023|UniProtKB=P51114	regulation of cell projection assembly	regulation of cell projection organization		32
+GO:0046475	HUMAN|HGNC=3357|UniProtKB=Q13822	glycerophospholipid catabolic process	phospholipid catabolic process		40
+GO:0031982	HUMAN|HGNC=26234|UniProtKB=Q96H55	vesicle	membrane-bounded organelle	vesicle membrane;intracellular vesicle	1859
+PC00158	HUMAN|HGNC=17586|UniProtKB=Q9NZJ7,HUMAN|HGNC=17587|UniProtKB=Q9Y6C9	mitochondrial carrier protein	secondary carrier transporter		118
+GO:0000723	HUMAN|HGNC=882|UniProtKB=Q13535	telomere maintenance	DNA metabolic process	telomere maintenance via telomere lengthening	132
+GO:0016829	HUMAN|HGNC=291|UniProtKB=P30566	lyase activity	catalytic activity	phosphorus-oxygen lyase activity;carbon-carbon lyase activity;carbon-oxygen lyase activity	882
+GO:0044380	HUMAN|HGNC=29110|UniProtKB=Q2KHM9	protein localization to cytoskeleton	protein localization to organelle		29
+GO:0072583	HUMAN|HGNC=15514|UniProtKB=Q13492	clathrin-dependent endocytosis	receptor-mediated endocytosis		128
+GO:0007015	HUMAN|HGNC=26234|UniProtKB=Q96H55	actin filament organization	actin cytoskeleton organization	actin polymerization or depolymerization;Arp2/3 complex-mediated actin nucleation;actin filament bundle organization	665
+PC00167	HUMAN|HGNC=29826|UniProtKB=Q32MK0,HUMAN|HGNC=13900|UniProtKB=Q9HBY8,HUMAN|HGNC=2451|UniProtKB=P48729,HUMAN|HGNC=882|UniProtKB=Q13535,HUMAN|HGNC=392|UniProtKB=P31751	non-receptor serine/threonine protein kinase	protein modifying enzyme		2015
+GO:0038023	HUMAN|HGNC=10724|UniProtKB=Q13214,HUMAN|HGNC=9236|UniProtKB=P37231	signaling receptor activity	molecular transducer activity	transmembrane signaling receptor activity;peptide receptor activity;neurotransmitter receptor activity	2878
+GO:0001755	HUMAN|HGNC=10724|UniProtKB=Q13214	neural crest cell migration	neural crest cell development		44
+GO:0006482	HUMAN|HGNC=20815|UniProtKB=Q9Y4C1	protein demethylation	protein dealkylation		44
+GO:0050773	HUMAN|HGNC=4023|UniProtKB=P51114	regulation of dendrite development	regulation of neuron projection development		23
+GO:0004659	HUMAN|HGNC=4249|UniProtKB=O95749	prenyltransferase activity	transferase activity, transferring alkyl or aryl (other than methyl) groups		118
+GO:1904262	HUMAN|HGNC=18423|UniProtKB=O75140	negative regulation of TORC1 signaling	negative regulation of TOR signaling		21
+PC00066	HUMAN|HGNC=8872|UniProtKB=P16118	carbohydrate phosphatase	phosphatase		41
+GO:0010390	HUMAN|HGNC=1066|UniProtKB=P35226	histone monoubiquitination	histone ubiquitination		26
+GO:0006900	HUMAN|HGNC=15514|UniProtKB=Q13492	vesicle budding from membrane	vesicle-mediated transport	COPII-coated vesicle budding	793
+GO:0045944	HUMAN|HGNC=9236|UniProtKB=P37231	positive regulation of transcription by RNA polymerase II	regulation of transcription by RNA polymerase II	positive regulation of transcription elongation from RNA polymerase II promoter	592
+GO:0033522	HUMAN|HGNC=1066|UniProtKB=P35226	histone H2A ubiquitination	histone ubiquitination		23
+GO:0035102	HUMAN|HGNC=1066|UniProtKB=P35226	PRC1 complex	nuclear ubiquitin ligase complex		18
+GO:0006457	HUMAN|HGNC=1617|UniProtKB=P50991	protein folding	cellular process	'de novo' protein folding;chaperone-mediated protein folding	692
+GO:0006357	HUMAN|HGNC=783|UniProtKB=P18846,HUMAN|HGNC=20815|UniProtKB=Q9Y4C1,HUMAN|HGNC=30027|UniProtKB=Q6IE81	regulation of transcription by RNA polymerase II	regulation of transcription, DNA-templated	negative regulation of transcription by RNA polymerase II;positive regulation of transcription by RNA polymerase II;phosphorylation of RNA polymerase II C-terminal domain;regulation of transcription from RNA polymerase II promoter in response to stress	4112
+GO:0048018	HUMAN|HGNC=10724|UniProtKB=Q13214	receptor ligand activity	signaling receptor activator activity	growth factor activity;cytokine activity;hormone activity	443
+GO:0010569	HUMAN|HGNC=28773|UniProtKB=Q86V20	regulation of double-strand break repair via homologous recombination	regulation of double-strand break repair	negative regulation of double-strand break repair via homologous recombination	17
+GO:0007420	HUMAN|HGNC=14085|UniProtKB=Q9NQC3	brain development	head development	forebrain development	76
+PC00142	HUMAN|HGNC=3569|UniProtKB=P33121,HUMAN|HGNC=21298|UniProtKB=Q86V21,HUMAN|HGNC=15814|UniProtKB=Q9NR19	ligase	metabolite interconversion enzyme		515
+GO:0051480	HUMAN|HGNC=817|UniProtKB=P23634,HUMAN|HGNC=815|UniProtKB=Q01814	regulation of cytosolic calcium ion concentration	cellular calcium ion homeostasis	positive regulation of cytosolic calcium ion concentration	177
+GO:0030175	HUMAN|HGNC=4023|UniProtKB=P51114	filopodium	actin-based cell projection		19
+GO:0016485	HUMAN|HGNC=7154|UniProtKB=P08473	protein processing	protein maturation	mitochondrial protein processing;zymogen activation;signal peptide processing	223
+GO:2001022	HUMAN|HGNC=4023|UniProtKB=P51114	positive regulation of response to DNA damage stimulus	regulation of response to DNA damage stimulus	positive regulation of DNA repair	21
+GO:0006402	HUMAN|HGNC=4023|UniProtKB=P51114	mRNA catabolic process	RNA catabolic process	nuclear-transcribed mRNA catabolic process	379
+PC00069	HUMAN|HGNC=11787|UniProtKB=P49746,HUMAN|HGNC=6484|UniProtKB=Q16363	cell adhesion molecule	protein class	immunoglobulin superfamily cell adhesion molecule;cadherin;integrin	696
+PC00128	HUMAN|HGNC=18486|UniProtKB=O15018	interleukin superfamily	cytokine		41
+GO:0006570	HUMAN|HGNC=3579|UniProtKB=P16930	tyrosine metabolic process	aromatic amino acid family metabolic process		24
+GO:0070847	HUMAN|HGNC=32687|UniProtKB=Q9P086	core mediator complex	RNA polymerase II transcription regulator complex		112
+PC00077	HUMAN|HGNC=8919|UniProtKB=O43189,HUMAN|HGNC=1911|UniProtKB=Q13112	chromatin/chromatin-binding, or -regulatory protein	protein class	histone;histone modifying enzyme;centromere DNA-binding protein	1188
+GO:0099565	HUMAN|HGNC=25890|UniProtKB=Q86YD3	chemical synaptic transmission, postsynaptic	chemical synaptic transmission		21
+GO:0003924	HUMAN|HGNC=18423|UniProtKB=O75140,HUMAN|HGNC=2973|UniProtKB=O00429,HUMAN|HGNC=9858|UniProtKB=P47736	GTPase activity	nucleoside-triphosphatase activity		1252
+PC00104	HUMAN|HGNC=4298|UniProtKB=P16278	galactosidase	hydrolase		105
+GO:0048488	HUMAN|HGNC=15514|UniProtKB=Q13492	synaptic vesicle endocytosis	synaptic vesicle cycle		47
+GO:0016579	HUMAN|HGNC=16889|UniProtKB=O00487	protein deubiquitination	protein modification by small protein removal	protein K48-linked deubiquitination;histone deubiquitination;protein K63-linked deubiquitination	293
+GO:0032535	HUMAN|HGNC=10724|UniProtKB=Q13214	regulation of cellular component size	cellular component organization	regulation of actin filament length	217
+GO:0006974	HUMAN|HGNC=4023|UniProtKB=P51114	cellular response to DNA damage stimulus	cellular response to stress	intrinsic apoptotic signaling pathway in response to DNA damage;signal transduction in response to DNA damage;DNA repair	807
+GO:0005743	HUMAN|HGNC=25302|UniProtKB=O75208	mitochondrial inner membrane	organelle inner membrane	inner mitochondrial membrane protein complex;intrinsic component of mitochondrial inner membrane;mitochondrial respirasome	611
+PC00216	HUMAN|HGNC=23989|UniProtKB=Q96QU6,HUMAN|HGNC=4552|UniProtKB=P24298	transaminase	transferase		318
+GO:0000123	HUMAN|HGNC=30027|UniProtKB=Q6IE81	histone acetyltransferase complex	nucleoplasm	NuA4 histone acetyltransferase complex;SAGA-type complex	177
+GO:0042127	HUMAN|HGNC=16077|UniProtKB=Q9NRW4	regulation of cell population proliferation	regulation of cellular process	regulation of leukocyte proliferation;positive regulation of cell population proliferation;negative regulation of cell population proliferation	249
+PC00152	HUMAN|HGNC=10724|UniProtKB=Q13214	membrane-bound signaling molecule	intercellular signal molecule		71
+GO:0005789	HUMAN|HGNC=30220|UniProtKB=Q96AA3	endoplasmic reticulum membrane	endoplasmic reticulum subcompartment	oligosaccharyltransferase complex;rough endoplasmic reticulum membrane;intrinsic component of endoplasmic reticulum membrane	1003
+GO:0005887	HUMAN|HGNC=11068|UniProtKB=P32418,HUMAN|HGNC=30225|UniProtKB=Q9NWF4,HUMAN|HGNC=10724|UniProtKB=Q13214,HUMAN|HGNC=817|UniProtKB=P23634,HUMAN|HGNC=25223|UniProtKB=Q96H96,HUMAN|HGNC=815|UniProtKB=Q01814,HUMAN|HGNC=21640|UniProtKB=O75954	integral component of plasma membrane	integral component of membrane	integral component of synaptic membrane	2466
+PC00191	HUMAN|HGNC=1546|UniProtKB=P50454,HUMAN|HGNC=598|UniProtKB=Q06481,HUMAN|HGNC=8985|UniProtKB=P20848	protease inhibitor	protein-binding activity modulator		541
+GO:0007179	HUMAN|HGNC=16077|UniProtKB=Q9NRW4	transforming growth factor beta receptor signaling pathway	cellular response to transforming growth factor beta stimulus		54
+GO:0030246	HUMAN|HGNC=15788|UniProtKB=Q96DT0	carbohydrate binding	binding		141
+GO:0005814	HUMAN|HGNC=29110|UniProtKB=Q2KHM9	centriole	microtubule organizing center		372
+GO:0016787	HUMAN|HGNC=3579|UniProtKB=P16930	hydrolase activity	catalytic activity	peptidase activity;serine hydrolase activity;hydrolase activity, acting on glycosyl bonds;hydrolase activity, acting on ester bonds;deaminase activity;hydrolase activity, acting on acid anhydrides;deacetylase activity;ether hydrolase activity;hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	9060
+GO:0072329	HUMAN|HGNC=19708|UniProtKB=Q86WU2,HUMAN|HGNC=3579|UniProtKB=P16930	monocarboxylic acid catabolic process	carboxylic acid catabolic process	fatty acid catabolic process	236
+GO:1901135	HUMAN|HGNC=8872|UniProtKB=P16118	carbohydrate derivative metabolic process	organic substance metabolic process	glucose 6-phosphate metabolic process;liposaccharide metabolic process;carbohydrate derivative biosynthetic process;glycoprotein metabolic process;ribose phosphate metabolic process;carbohydrate derivative catabolic process;glycerol-3-phosphate metabolic process;amino sugar metabolic process;nucleotide-sugar metabolic process;glycosyl compound metabolic process;aminoglycan metabolic process	1907
+GO:0006914	HUMAN|HGNC=18423|UniProtKB=O75140	autophagy	process utilizing autophagic mechanism	lysosomal microautophagy;autophagy of nucleus;macroautophagy;autophagy of mitochondrion	307
+GO:0017148	HUMAN|HGNC=4023|UniProtKB=P51114	negative regulation of translation	regulation of translation	mRNA destabilization	289
+GO:1905349	HUMAN|HGNC=24483|UniProtKB=Q9Y4R7	ciliary transition zone assembly	cilium assembly		272
+GO:0019752	HUMAN|HGNC=117|UniProtKB=P21399	carboxylic acid metabolic process	oxoacid metabolic process	carboxylic acid catabolic process;monocarboxylic acid metabolic process;carboxylic acid biosynthetic process;cellular amino acid metabolic process;icosanoid metabolic process	2128
+GO:0045727	HUMAN|HGNC=4023|UniProtKB=P51114	positive regulation of translation	positive regulation of macromolecule biosynthetic process	positive regulation of translational initiation	116
+GO:0004527	HUMAN|HGNC=3357|UniProtKB=Q13822	exonuclease activity	nuclease activity	3'-5' exonuclease activity;5'-3' exonuclease activity;exodeoxyribonuclease activity;exonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters	257
+GO:0008081	HUMAN|HGNC=3357|UniProtKB=Q13822	phosphoric diester hydrolase activity	phosphoric ester hydrolase activity	cyclic-nucleotide phosphodiesterase activity;phospholipase C activity	200
+GO:0044057	HUMAN|HGNC=25890|UniProtKB=Q86YD3	regulation of system process	regulation of multicellular organismal process	regulation of muscle system process;regulation of blood circulation	77
+GO:0019955	HUMAN|HGNC=5967|UniProtKB=Q14626	cytokine binding	protein binding	tumor necrosis factor binding;chemokine binding;transforming growth factor beta binding	108
+PC00150	HUMAN|HGNC=2973|UniProtKB=O00429,HUMAN|HGNC=2183|UniProtKB=Q7Z7G8	membrane traffic protein	protein class	membrane trafficking regulatory protein;SNARE protein;vesicle coat protein	1065
+GO:0004896	HUMAN|HGNC=5967|UniProtKB=Q14626	cytokine receptor activity	transmembrane signaling receptor activity		71
+GO:0015491	HUMAN|HGNC=11068|UniProtKB=P32418	cation:cation antiporter activity	solute:cation antiporter activity		94
+GO:0006633	HUMAN|HGNC=115|UniProtKB=P53396	fatty acid biosynthetic process	fatty acid metabolic process	unsaturated fatty acid biosynthetic process	218
+PC00121	HUMAN|HGNC=3357|UniProtKB=Q13822,HUMAN|HGNC=4908|UniProtKB=Q6NVY1	hydrolase	metabolite interconversion enzyme	esterase;pyrophosphatase;deaminase;glycosidase;deacetylase;glucosidase;phosphatase;phosphodiesterase;amylase;lipase;galactosidase	3716
+GO:0019838	HUMAN|HGNC=19695|UniProtKB=Q14512,HUMAN|HGNC=5967|UniProtKB=Q14626	growth factor binding	protein binding	fibroblast growth factor binding;transforming growth factor beta binding	50
+GO:0097712	HUMAN|HGNC=24483|UniProtKB=Q9Y4R7	vesicle targeting, trans-Golgi to periciliary membrane compartment	cilium assembly		272
+GO:0006470	HUMAN|HGNC=9311|UniProtKB=Q13362,HUMAN|HGNC=30263|UniProtKB=Q9P2J9	protein dephosphorylation	cellular protein modification process	peptidyl-tyrosine dephosphorylation	486
+GO:0050770	HUMAN|HGNC=30285|UniProtKB=Q7L099,HUMAN|HGNC=10724|UniProtKB=Q13214	regulation of axonogenesis	regulation of neuron projection development	positive regulation of axonogenesis	75
+GO:0008283	HUMAN|HGNC=16077|UniProtKB=Q9NRW4,HUMAN|HGNC=5967|UniProtKB=Q14626	cell population proliferation	cellular process	epithelial cell proliferation;leukocyte proliferation	286
+GO:0005829	HUMAN|HGNC=9311|UniProtKB=Q13362,HUMAN|HGNC=117|UniProtKB=P21399,HUMAN|HGNC=4570|UniProtKB=Q9UBQ7,HUMAN|HGNC=9852|UniProtKB=O95373,HUMAN|HGNC=8872|UniProtKB=P16118,HUMAN|HGNC=16077|UniProtKB=Q9NRW4,HUMAN|HGNC=21298|UniProtKB=Q86V21,HUMAN|HGNC=291|UniProtKB=P30566,HUMAN|HGNC=115|UniProtKB=P53396	cytosol	cytoplasm	inflammasome complex;cytosolic ribosome;chaperonin-containing T-complex	4852
+GO:0003729	HUMAN|HGNC=10787|UniProtKB=Q13243,HUMAN|HGNC=117|UniProtKB=P21399	mRNA binding	RNA binding	mRNA 3'-UTR binding	1070
+GO:1901615	HUMAN|HGNC=19708|UniProtKB=Q86WU2,HUMAN|HGNC=3579|UniProtKB=P16930	organic hydroxy compound metabolic process	organic substance metabolic process	organic hydroxy compound biosynthetic process;phytosteroid metabolic process;sterol metabolic process;alcohol metabolic process;catecholamine metabolic process	810
+GO:0044255	HUMAN|HGNC=4249|UniProtKB=O95749	cellular lipid metabolic process	cellular metabolic process	neutral lipid metabolic process;glycerolipid metabolic process;ergosterol metabolic process;membrane lipid metabolic process;lipid modification;lipopolysaccharide biosynthetic process;cellular lipid catabolic process;phospholipid metabolic process;fatty acid metabolic process;carotenoid biosynthetic process	1895
+GO:0019897	HUMAN|HGNC=15514|UniProtKB=Q13492	extrinsic component of plasma membrane	plasma membrane	extrinsic component of cytoplasmic side of plasma membrane	204
+GO:0098590	HUMAN|HGNC=11068|UniProtKB=P32418,HUMAN|HGNC=14085|UniProtKB=Q9NQC3,HUMAN|HGNC=4023|UniProtKB=P51114,HUMAN|HGNC=24483|UniProtKB=Q9Y4R7	plasma membrane region	plasma membrane	cell projection membrane;basolateral plasma membrane;apical plasma membrane;clathrin-coated pit;plasma membrane raft;basal plasma membrane;synaptic membrane	1674
+PC00244	HUMAN|HGNC=30027|UniProtKB=Q6IE81	zinc finger transcription factor	DNA-binding transcription factor	C6 zinc finger transcription factor;C4 zinc finger nuclear receptor;C2H2 zinc finger transcription factor	1838
+PC00169	HUMAN|HGNC=9236|UniProtKB=P37231	C4 zinc finger nuclear receptor	zinc finger transcription factor		251
+PC00220	HUMAN|HGNC=115|UniProtKB=P53396	transferase	metabolite interconversion enzyme	nucleotidyltransferase;methyltransferase;acetyltransferase;transketolase;glycosyltransferase;acyltransferase;transaldolase;transaminase;kinase	3275
+GO:0008284	HUMAN|HGNC=5967|UniProtKB=Q14626	positive regulation of cell population proliferation	regulation of cell population proliferation	positive regulation of T cell proliferation;positive regulation of epithelial cell proliferation	155
+GO:0000724	HUMAN|HGNC=28773|UniProtKB=Q86V20	double-strand break repair via homologous recombination	recombinational repair	double-strand break repair via break-induced replication	272
+GO:0030154	HUMAN|HGNC=9236|UniProtKB=P37231	cell differentiation	cellular developmental process	osteoblast differentiation;myeloid cell differentiation;leukocyte differentiation;neurogenesis;cell development;melanocyte differentiation;vasculogenesis;cell fate commitment;glial cell differentiation;neuron differentiation;stem cell differentiation;muscle cell differentiation;spermatid differentiation;fat cell differentiation;epithelial cell differentiation;mesenchymal cell differentiation	1578
+GO:0016773	HUMAN|HGNC=8872|UniProtKB=P16118	phosphotransferase activity, alcohol group as acceptor	transferase activity, transferring phosphorus-containing groups	protein kinase activity	3211
+GO:0008237	HUMAN|HGNC=16889|UniProtKB=O00487	metallopeptidase activity	peptidase activity	metalloendopeptidase activity	385
+GO:0005891	HUMAN|HGNC=1399|UniProtKB=P54289	voltage-gated calcium channel complex	plasma membrane protein complex	CatSper complex	60
+GO:0043235	HUMAN|HGNC=5967|UniProtKB=Q14626	receptor complex	protein-containing complex		361
+GO:0005759	HUMAN|HGNC=4801|UniProtKB=P40939	mitochondrial matrix	mitochondrion	mitochondrial ribosome	276
+GO:0009755	HUMAN|HGNC=9236|UniProtKB=P37231	hormone-mediated signaling pathway	cellular response to hormone stimulus	steroid hormone mediated signaling pathway	477
+GO:0061695	HUMAN|HGNC=8872|UniProtKB=P16118	transferase complex, transferring phosphorus-containing groups	transferase complex	phosphatidylinositol 3-kinase complex;protein kinase complex;DNA polymerase complex;RNA polymerase complex	829
+GO:0051059	HUMAN|HGNC=16223|UniProtKB=Q86VX2	NF-kappaB binding	RNA polymerase II-specific DNA-binding transcription factor binding		4
+GO:0035725	HUMAN|HGNC=11068|UniProtKB=P32418	sodium ion transmembrane transport	sodium ion transport		201
+GO:0045892	HUMAN|HGNC=16223|UniProtKB=Q86VX2	negative regulation of transcription, DNA-templated	negative regulation of nucleic acid-templated transcription	negative regulation of transcription by RNA polymerase II	634
+GO:0050804	HUMAN|HGNC=25890|UniProtKB=Q86YD3,HUMAN|HGNC=4023|UniProtKB=P51114	modulation of chemical synaptic transmission	regulation of trans-synaptic signaling	positive regulation of synaptic transmission;regulation of synaptic transmission, glutamatergic;regulation of neurotransmitter secretion;regulation of synaptic plasticity	153
+GO:0000981	HUMAN|HGNC=783|UniProtKB=P18846,HUMAN|HGNC=9236|UniProtKB=P37231	DNA-binding transcription factor activity, RNA polymerase II-specific	DNA-binding transcription factor activity	DNA-binding transcription activator activity, RNA polymerase II-specific;DNA-binding transcription repressor activity, RNA polymerase II-specific	2894
+GO:0072665	HUMAN|HGNC=23038|UniProtKB=Q9NUN5	protein localization to vacuole	protein localization to organelle	protein localization to lysosome;establishment of protein localization to vacuole	87
+GO:0016570	HUMAN|HGNC=20815|UniProtKB=Q9Y4C1	histone modification	cellular protein modification process	histone methylation;histone ubiquitination;histone deubiquitination;histone acetylation;histone deacetylation	390
+GO:0005615	HUMAN|HGNC=3357|UniProtKB=Q13822,HUMAN|HGNC=10724|UniProtKB=Q13214,HUMAN|HGNC=4161|UniProtKB=Q14392,HUMAN|HGNC=1546|UniProtKB=P50454,HUMAN|HGNC=8985|UniProtKB=P20848	extracellular space	extracellular region	high-density lipoprotein particle	2162
+GO:0140096	HUMAN|HGNC=24483|UniProtKB=Q9Y4R7	catalytic activity, acting on a protein	catalytic activity	histone deacetylase activity;protein-disulfide reductase activity;peptidyl-prolyl cis-trans isomerase activity;peptidase activity;histone acetyltransferase activity;protein methyltransferase activity;ubiquitin-like protein transferase activity;histone demethylase activity;phosphoprotein phosphatase activity;protein kinase activity;protein disulfide isomerase activity	7506
+GO:0016021	HUMAN|HGNC=2995|UniProtKB=Q9H3H5	integral component of membrane	intrinsic component of membrane	integral component of plasma membrane;integral component of organelle membrane;transmembrane transporter complex	4273
+GO:0050767	HUMAN|HGNC=10724|UniProtKB=Q13214	regulation of neurogenesis	generation of neurons	positive regulation of neurogenesis	105
+GO:0022603	HUMAN|HGNC=4023|UniProtKB=P51114	regulation of anatomical structure morphogenesis	regulation of developmental process	regulation of angiogenesis;regulation of axonogenesis;regulation of cell shape	281
+GO:0005635	HUMAN|HGNC=9852|UniProtKB=O95373	nuclear envelope	nucleus	nuclear pore;nuclear membrane	260
+GO:0070628	HUMAN|HGNC=16889|UniProtKB=O00487	proteasome binding	protein-containing complex binding		52
+GO:0000381	HUMAN|HGNC=4023|UniProtKB=P51114	regulation of alternative mRNA splicing, via spliceosome	regulation of mRNA splicing, via spliceosome		52
+GO:0010508	HUMAN|HGNC=18423|UniProtKB=O75140	positive regulation of autophagy	positive regulation of cellular catabolic process		27
+PC00068	HUMAN|HGNC=817|UniProtKB=P23634,HUMAN|HGNC=815|UniProtKB=Q01814	primary active transporter	transporter	ATP-binding cassette (ABC) transporter;ATP synthase	1616
+GO:0008270	HUMAN|HGNC=3357|UniProtKB=Q13822	zinc ion binding	transition metal ion binding		246
+GO:0030424	HUMAN|HGNC=11068|UniProtKB=P32418	axon	neuron projection	distal axon	256
+GO:0014069	HUMAN|HGNC=14085|UniProtKB=Q9NQC3,HUMAN|HGNC=4023|UniProtKB=P51114	postsynaptic density	asymmetric synapse	postsynaptic density membrane	101
+GO:0008047	HUMAN|HGNC=9311|UniProtKB=Q13362	enzyme activator activity	enzyme regulator activity	peptidase activator activity;kinase activator activity;GTPase activator activity	579
+GO:0019903	HUMAN|HGNC=9311|UniProtKB=Q13362	protein phosphatase binding	phosphatase binding	protein phosphatase 1 binding	320
+GO:0005515	HUMAN|HGNC=18423|UniProtKB=O75140,HUMAN|HGNC=817|UniProtKB=P23634,HUMAN|HGNC=815|UniProtKB=Q01814,HUMAN|HGNC=9858|UniProtKB=P47736	protein binding	binding	histone binding;SNARE binding;protein kinase A binding;modification-dependent protein binding;heat shock protein binding;growth factor binding;signaling receptor binding;Wnt-protein binding;chaperone binding;misfolded protein binding;calmodulin binding;cyclin binding;phosphatidylinositol 3-kinase binding;cell adhesion molecule binding;cytokine binding;clathrin binding;identical protein binding;cytoskeletal protein binding;basal transcription machinery binding;translation initiation factor binding;complement binding;transmembrane transporter binding;ubiquitin binding;unfolded protein binding;SMAD binding;transcription factor binding;enzyme binding;beta-catenin binding	8453
+GO:0051241	HUMAN|HGNC=10724|UniProtKB=Q13214	negative regulation of multicellular organismal process	regulation of multicellular organismal process	negative regulation of angiogenesis;negative regulation of coagulation	111
+GO:0046033	HUMAN|HGNC=291|UniProtKB=P30566	AMP metabolic process	purine ribonucleoside monophosphate metabolic process		28
+GO:0008289	HUMAN|HGNC=25302|UniProtKB=O75208	lipid binding	binding	lipopolysaccharide binding;fatty acid binding;steroid binding;phospholipid binding	853
+GO:0030198	HUMAN|HGNC=7158|UniProtKB=P39900	extracellular matrix organization	extracellular structure organization	collagen fibril organization	179
+GO:0003677	HUMAN|HGNC=8919|UniProtKB=O43189	DNA binding	nucleic acid binding	single-stranded DNA binding;damaged DNA binding;sequence-specific DNA binding;chromatin DNA binding;double-stranded DNA binding;DNA binding, bending;four-way junction DNA binding	5782
+GO:0032452	HUMAN|HGNC=20815|UniProtKB=Q9Y4C1	histone demethylase activity	catalytic activity, acting on a protein		93
+GO:0006355	HUMAN|HGNC=8919|UniProtKB=O43189	regulation of transcription, DNA-templated	regulation of nucleic acid-templated transcription	regulation of DNA-templated transcription, elongation;negative regulation of transcription, DNA-templated;regulation of transcription by RNA polymerase II;regulation of DNA-templated transcription, initiation;regulation of DNA-binding transcription factor activity;regulation of transcription by RNA polymerase I;positive regulation of transcription, DNA-templated	5934
+GO:0050728	HUMAN|HGNC=9236|UniProtKB=P37231	negative regulation of inflammatory response	negative regulation of response to external stimulus		26
+GO:0005634	HUMAN|HGNC=9311|UniProtKB=Q13362,HUMAN|HGNC=28773|UniProtKB=Q86V20,HUMAN|HGNC=29789|UniProtKB=Q9ULD2,HUMAN|HGNC=8919|UniProtKB=O43189,HUMAN|HGNC=2451|UniProtKB=P48729,HUMAN|HGNC=4023|UniProtKB=P51114,HUMAN|HGNC=882|UniProtKB=Q13535,HUMAN|HGNC=1911|UniProtKB=Q13112	nucleus	intracellular membrane-bounded organelle	nuclear protein-containing complex;nuclear lumen;nuclear envelope	12543
+GO:0009897	HUMAN|HGNC=5967|UniProtKB=Q14626	external side of plasma membrane	cell surface		397
+GO:0005737	HUMAN|HGNC=30285|UniProtKB=Q7L099,HUMAN|HGNC=4565|UniProtKB=Q14449,HUMAN|HGNC=29789|UniProtKB=Q9ULD2,HUMAN|HGNC=2451|UniProtKB=P48729,HUMAN|HGNC=26234|UniProtKB=Q96H55,HUMAN|HGNC=9858|UniProtKB=P47736,HUMAN|HGNC=15814|UniProtKB=Q9NR19	cytoplasm	intracellular anatomical structure	SMN complex;endoplasmic reticulum;cell cortex;cytoplasmic vesicle;cytoplasmic microtubule;cytoplasmic region;sarcoplasmic reticulum;cytosol;cytoplasmic ribonucleoprotein granule;mitochondrion;SMN-Sm protein complex;microbody;endoplasmic reticulum-Golgi intermediate compartment;contractile fiber;perinuclear region of cytoplasm;vacuole;membrane coat;Golgi apparatus;phagophore assembly site;SNARE complex;plastid;eukaryotic translation initiation factor 3 complex	24049
+GO:0010951	HUMAN|HGNC=1546|UniProtKB=P50454,HUMAN|HGNC=8985|UniProtKB=P20848	negative regulation of endopeptidase activity	regulation of endopeptidase activity		80
+GO:0030426	HUMAN|HGNC=4023|UniProtKB=P51114	growth cone	distal axon		14
+GO:0099518	HUMAN|HGNC=26234|UniProtKB=Q96H55	vesicle cytoskeletal trafficking	establishment of vesicle localization	vesicle transport along microtubule	108
+GO:0015085	HUMAN|HGNC=11068|UniProtKB=P32418,HUMAN|HGNC=817|UniProtKB=P23634,HUMAN|HGNC=815|UniProtKB=Q01814	calcium ion transmembrane transporter activity	metal ion transmembrane transporter activity	calcium channel activity	347
+PC00042	HUMAN|HGNC=24865|UniProtKB=Q9HCL2,HUMAN|HGNC=4416|UniProtKB=O15228,HUMAN|HGNC=25223|UniProtKB=Q96H96,HUMAN|HGNC=4803|UniProtKB=P55084	acyltransferase	transferase		542
+GO:0006606	HUMAN|HGNC=9852|UniProtKB=O95373	protein import into nucleus	intracellular protein transport		220
+GO:0022625	HUMAN|HGNC=21370|UniProtKB=Q6DKI1	cytosolic large ribosomal subunit	cytosolic ribosome		576
+GO:0016877	HUMAN|HGNC=21298|UniProtKB=Q86V21,HUMAN|HGNC=15814|UniProtKB=Q9NR19	ligase activity, forming carbon-sulfur bonds	ligase activity	long-chain fatty acid-CoA ligase activity	240
+GO:0016491	HUMAN|HGNC=3978|UniProtKB=O75891,HUMAN|HGNC=20499|UniProtKB=Q9H9P8,HUMAN|HGNC=406|UniProtKB=P30038	oxidoreductase activity	catalytic activity	electron transfer activity;oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen;oxidoreductase activity, acting on the CH-CH group of donors;oxidoreductase activity, acting on metal ions;oxidoreductase activity, acting on NAD(P)H;oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor;oxidoreductase activity, acting on a sulfur group of donors;monooxygenase activity	4203
+GO:0016746	HUMAN|HGNC=115|UniProtKB=P53396	acyltransferase activity	transferase activity	acyltransferase activity, transferring groups other than amino-acyl groups	1359
+GO:0030276	HUMAN|HGNC=15514|UniProtKB=Q13492	clathrin binding	protein binding		223
+GO:0000118	HUMAN|HGNC=20815|UniProtKB=Q9Y4C1	histone deacetylase complex	nucleoplasm	Swr1 complex;Sin3-type complex	150
+GO:0009986	HUMAN|HGNC=4161|UniProtKB=Q14392	cell surface	cellular anatomical entity	external side of plasma membrane	605
+GO:0019221	HUMAN|HGNC=5967|UniProtKB=Q14626	cytokine-mediated signaling pathway	cellular response to cytokine stimulus	type I interferon signaling pathway;tumor necrosis factor-mediated signaling pathway	214
+GO:0009056	HUMAN|HGNC=7158|UniProtKB=P39900	catabolic process	metabolic process	cellular catabolic process;organic substance catabolic process;small molecule catabolic process	4385
+GO:0000398	HUMAN|HGNC=10787|UniProtKB=Q13243	mRNA splicing, via spliceosome	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	mRNA cis splicing, via spliceosome;spliceosomal complex assembly;alternative mRNA splicing, via spliceosome;spliceosomal snRNP assembly	661
+GO:0005929	HUMAN|HGNC=24483|UniProtKB=Q9Y4R7	cilium	membrane-bounded organelle	ciliary membrane;ciliary transition zone;BBSome;ciliary plasm;non-motile cilium;ciliary basal body;motile cilium;ciliary transition fiber;ciliary base	398
+GO:0050808	HUMAN|HGNC=4023|UniProtKB=P51114	synapse organization	cell junction organization	neuromuscular junction development;synapse assembly;synaptic membrane adhesion;postsynapse organization	136
+GO:0008286	HUMAN|HGNC=4565|UniProtKB=Q14449	insulin receptor signaling pathway	cellular response to insulin stimulus		22
+GO:0034451	HUMAN|HGNC=29110|UniProtKB=Q2KHM9	centriolar satellite	centrosome		15
+GO:0003723	HUMAN|HGNC=21370|UniProtKB=Q6DKI1	RNA binding	nucleic acid binding	snoRNA binding;mRNA binding;translation factor activity, RNA binding;RNA cap binding;tRNA binding;double-stranded RNA binding;pre-mRNA binding;snRNA binding;single-stranded RNA binding;rRNA binding	3167
+PC00226	HUMAN|HGNC=4565|UniProtKB=Q14449,HUMAN|HGNC=18242|UniProtKB=Q8NEU8,HUMAN|HGNC=20362|UniProtKB=Q9Y4F5,HUMAN|HGNC=30418|UniProtKB=Q5HYK7,HUMAN|HGNC=23177|UniProtKB=Q14145,HUMAN|HGNC=9498|UniProtKB=P07602,HUMAN|HGNC=21640|UniProtKB=O75954	scaffold/adaptor protein	protein class		2244
+GO:0005604	HUMAN|HGNC=2192|UniProtKB=P39059	basement membrane	collagen-containing extracellular matrix		46
+GO:0090630	HUMAN|HGNC=9858|UniProtKB=P47736	activation of GTPase activity	positive regulation of GTPase activity		162
+GO:0010008	HUMAN|HGNC=18242|UniProtKB=Q8NEU8	endosome membrane	endosome	early endosome membrane;late endosome membrane;ESCRT I complex	274
+GO:0006414	HUMAN|HGNC=4023|UniProtKB=P51114	translational elongation	translation		1395
+GO:0004222	HUMAN|HGNC=7158|UniProtKB=P39900,HUMAN|HGNC=7154|UniProtKB=P08473	metalloendopeptidase activity	metallopeptidase activity		289
+GO:0042391	HUMAN|HGNC=25890|UniProtKB=Q86YD3	regulation of membrane potential	regulation of biological quality	regulation of membrane depolarization;action potential	377
+GO:0070509	HUMAN|HGNC=11068|UniProtKB=P32418	calcium ion import	calcium ion transport		103
+GO:0007254	HUMAN|HGNC=16077|UniProtKB=Q9NRW4	JNK cascade	stress-activated MAPK cascade		44
+PC00144	HUMAN|HGNC=291|UniProtKB=P30566	lyase	metabolite interconversion enzyme	dehydratase;hydratase;aldolase;cyclase;decarboxylase	1408
+PC00261	HUMAN|HGNC=20815|UniProtKB=Q9Y4C1	histone modifying enzyme	chromatin/chromatin-binding, or -regulatory protein		398
+GO:0009152	HUMAN|HGNC=3569|UniProtKB=P33121,HUMAN|HGNC=291|UniProtKB=P30566,HUMAN|HGNC=15814|UniProtKB=Q9NR19,HUMAN|HGNC=115|UniProtKB=P53396	purine ribonucleotide biosynthetic process	ribonucleotide biosynthetic process	ATP biosynthetic process;cGMP biosynthetic process;IMP biosynthetic process	483
+GO:0007409	HUMAN|HGNC=30285|UniProtKB=Q7L099,HUMAN|HGNC=598|UniProtKB=Q06481	axonogenesis	cell morphogenesis involved in neuron differentiation	axon extension;axon guidance	246
+GO:0001676	HUMAN|HGNC=3569|UniProtKB=P33121	long-chain fatty acid metabolic process	fatty acid metabolic process	arachidonic acid metabolic process	52
+GO:0030863	HUMAN|HGNC=4704|UniProtKB=P04921	cortical cytoskeleton	cell cortex	cortical actin cytoskeleton	180
+GO:0005773	HUMAN|HGNC=3133|UniProtKB=Q15125,HUMAN|HGNC=15514|UniProtKB=Q13492,HUMAN|HGNC=4298|UniProtKB=P16278,HUMAN|HGNC=18242|UniProtKB=Q8NEU8,HUMAN|HGNC=9852|UniProtKB=O95373,HUMAN|HGNC=3569|UniProtKB=P33121,HUMAN|HGNC=1546|UniProtKB=P50454,HUMAN|HGNC=30220|UniProtKB=Q96AA3	vacuole	cytoplasm	vacuolar membrane;storage vacuole;autophagosome;lytic vacuole;plant-type vacuole	6569
+GO:0040013	HUMAN|HGNC=10724|UniProtKB=Q13214	negative regulation of locomotion	regulation of locomotion	negative regulation of cell motility	73
+GO:0004674	HUMAN|HGNC=29826|UniProtKB=Q32MK0,HUMAN|HGNC=13900|UniProtKB=Q9HBY8,HUMAN|HGNC=2451|UniProtKB=P48729,HUMAN|HGNC=882|UniProtKB=Q13535,HUMAN|HGNC=392|UniProtKB=P31751	protein serine/threonine kinase activity	protein kinase activity	cyclin-dependent protein serine/threonine kinase activity;transmembrane receptor protein serine/threonine kinase activity	1846
+GO:0051536	HUMAN|HGNC=7707|UniProtKB=P28331,HUMAN|HGNC=117|UniProtKB=P21399	iron-sulfur cluster binding	binding		172
+GO:0032501	HUMAN|HGNC=7154|UniProtKB=P08473	multicellular organismal process	biological_process	multicellular organism reproduction;tissue remodeling;endothelial cell migration;digestion;system process;cytokine production;ossification;morphogenesis of a branching structure;pattern specification process;post-embryonic development;multicellular organism development;coagulation;plasma lipoprotein particle clearance;circadian regulation of gene expression;multicellular organismal homeostasis	2986
+GO:0044770	HUMAN|HGNC=882|UniProtKB=Q13535	cell cycle phase transition	cell cycle process	cell cycle G2/M phase transition;cell cycle G1/S phase transition;mitotic cell cycle phase transition;metaphase/anaphase transition of cell cycle	419
+GO:0004553	HUMAN|HGNC=4298|UniProtKB=P16278	hydrolase activity, hydrolyzing O-glycosyl compounds	hydrolase activity, acting on glycosyl bonds	glucosidase activity;chitinase activity	737
+GO:0051082	HUMAN|HGNC=1617|UniProtKB=P50991	unfolded protein binding	protein binding		442
+GO:0005178	HUMAN|HGNC=15788|UniProtKB=Q96DT0	integrin binding	protein-containing complex binding		71
+GO:0016887	HUMAN|HGNC=3569|UniProtKB=P33121,HUMAN|HGNC=817|UniProtKB=P23634,HUMAN|HGNC=815|UniProtKB=Q01814,HUMAN|HGNC=26234|UniProtKB=Q96H55	ATP hydrolysis activity	ATP-dependent activity		1719
+GO:0098800	HUMAN|HGNC=28727|UniProtKB=Q9BUR5	inner mitochondrial membrane protein complex	mitochondrial inner membrane	mitochondrial proton-transporting ATP synthase complex, coupling factor F(o);mitochondrial proton-transporting ATP synthase complex;TIM23 mitochondrial import inner membrane translocase complex;mitochondrial respiratory chain complex I;mitochondrial respiratory chain complex III	482
+PC00148	HUMAN|HGNC=10787|UniProtKB=Q13243	RNA splicing factor	RNA processing factor		918
+GO:0051129	HUMAN|HGNC=10724|UniProtKB=Q13214	negative regulation of cellular component organization	regulation of cellular component organization	negative regulation of supramolecular fiber organization;negative regulation of organelle organization;negative regulation of protein-containing complex assembly;negative regulation of protein-containing complex disassembly	239
+PC00176	HUMAN|HGNC=2898|UniProtKB=P09622	oxidoreductase	metabolite interconversion enzyme	oxygenase;hydroxylase;peroxidase;reductase;dehydrogenase;oxidase	5481
+GO:0033209	HUMAN|HGNC=16223|UniProtKB=Q86VX2	tumor necrosis factor-mediated signaling pathway	cellular response to tumor necrosis factor		22
+GO:0008541	HUMAN|HGNC=16889|UniProtKB=O00487	proteasome regulatory particle, lid subcomplex	proteasome regulatory particle		39
+GO:0001934	HUMAN|HGNC=4023|UniProtKB=P51114	positive regulation of protein phosphorylation	positive regulation of phosphorylation	positive regulation of peptidyl-tyrosine phosphorylation;positive regulation of protein kinase activity	245
+GO:0097553	HUMAN|HGNC=11068|UniProtKB=P32418	calcium ion transmembrane import into cytosol	calcium ion transmembrane transport	release of sequestered calcium ion into cytosol	63
+GO:0016607	HUMAN|HGNC=10787|UniProtKB=Q13243	nuclear speck	nuclear body		119
+GO:0044249	HUMAN|HGNC=4249|UniProtKB=O95749	cellular biosynthetic process	biosynthetic process	heterocycle biosynthetic process;cellular nitrogen compound biosynthetic process;ubiquinone biosynthetic process;organic acid biosynthetic process;cellular macromolecule biosynthetic process;ergosterol biosynthetic process;aromatic compound biosynthetic process;phospholipid biosynthetic process;cellular carbohydrate biosynthetic process;carotenoid biosynthetic process;membrane lipid biosynthetic process;glycerolipid biosynthetic process	11234
+GO:0007417	HUMAN|HGNC=598|UniProtKB=Q06481,HUMAN|HGNC=4023|UniProtKB=P51114	central nervous system development	nervous system development	oligodendrocyte differentiation;central nervous system neuron differentiation;brain development	134
+GO:0071786	HUMAN|HGNC=14085|UniProtKB=Q9NQC3	endoplasmic reticulum tubular network organization	endoplasmic reticulum organization		28
+GO:0006520	HUMAN|HGNC=23989|UniProtKB=Q96QU6	cellular amino acid metabolic process	organonitrogen compound metabolic process	aromatic amino acid family metabolic process;cellular amino acid biosynthetic process;branched-chain amino acid metabolic process;alpha-amino acid metabolic process	1114
+GO:0018105	HUMAN|HGNC=13900|UniProtKB=Q9HBY8,HUMAN|HGNC=2451|UniProtKB=P48729,HUMAN|HGNC=392|UniProtKB=P31751	peptidyl-serine phosphorylation	protein phosphorylation		531
+PC00031	HUMAN|HGNC=117|UniProtKB=P21399	RNA metabolism protein	protein class	RNA helicase;RNA processing factor;general transcription factor;RNA methyltransferase;exoribonuclease;endoribonuclease;DNA-directed RNA polymerase	2718
+GO:0038202	HUMAN|HGNC=18423|UniProtKB=O75140	TORC1 signaling	TOR signaling		36
+GO:0004867	HUMAN|HGNC=1546|UniProtKB=P50454,HUMAN|HGNC=8985|UniProtKB=P20848	serine-type endopeptidase inhibitor activity	endopeptidase inhibitor activity		67
+GO:0016836	HUMAN|HGNC=117|UniProtKB=P21399,HUMAN|HGNC=4801|UniProtKB=P40939	hydro-lyase activity	carbon-oxygen lyase activity		353
+GO:0008017	HUMAN|HGNC=2973|UniProtKB=O00429,HUMAN|HGNC=29789|UniProtKB=Q9ULD2	microtubule binding	tubulin binding		493
+GO:0005874	HUMAN|HGNC=2973|UniProtKB=O00429	microtubule	microtubule cytoskeleton	microtubule plus-end;cytoplasmic microtubule;spindle microtubule	705
+PC00135	HUMAN|HGNC=3133|UniProtKB=Q15125	isomerase	metabolite interconversion enzyme	mutase;epimerase/racemase	242
+PC00241	HUMAN|HGNC=1399|UniProtKB=P54289	voltage-gated ion channel	ion channel		221
+GO:0043231	HUMAN|HGNC=817|UniProtKB=P23634,HUMAN|HGNC=815|UniProtKB=Q01814	intracellular membrane-bounded organelle	intracellular organelle	intracellular vesicle;endoplasmic reticulum;nucleus;microbody;endoplasmic reticulum-Golgi intermediate compartment;cis-Golgi network;vacuole;Golgi apparatus;plastid;mitochondrion	22874
+GO:0048813	HUMAN|HGNC=4023|UniProtKB=P51114	dendrite morphogenesis	cell morphogenesis involved in neuron differentiation	dendritic spine morphogenesis	23
+PC00111	HUMAN|HGNC=2995|UniProtKB=Q9H3H5	glycosyltransferase	transferase		1360
+GO:0016772	HUMAN|HGNC=2995|UniProtKB=Q9H3H5	transferase activity, transferring phosphorus-containing groups	transferase activity	kinase activity;phosphotransferase activity, alcohol group as acceptor;nucleotidyltransferase activity;phosphotransferase activity, phosphate group as acceptor	3840
+PC00202	HUMAN|HGNC=21370|UniProtKB=Q6DKI1	ribosomal protein	translational protein		1592
+GO:0000463	HUMAN|HGNC=21370|UniProtKB=Q6DKI1	maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	maturation of LSU-rRNA		77
+GO:0001944	HUMAN|HGNC=15788|UniProtKB=Q96DT0	vasculature development	circulatory system development	blood vessel development	80
+GO:0032991	HUMAN|HGNC=18423|UniProtKB=O75140,HUMAN|HGNC=1911|UniProtKB=Q13112	protein-containing complex	cellular_component	membrane protein complex;Prp19 complex;proteasome regulatory particle;nuclear protein-containing complex;mitochondrial protein-containing complex;inflammasome complex;MCM complex;intraciliary transport particle;NMS complex;outer kinetochore;collagen trimer;catalytic complex;intracellular protein-containing complex;Arp2/3 protein complex;proteasome accessory complex;BBSome;endoplasmic reticulum protein-containing complex;origin recognition complex;transporter complex;protein-DNA complex;ciliary transition fiber;intraciliary transport particle A;vesicle tethering complex;intraciliary transport particle B;proteasome regulatory particle, lid subcomplex;cytochrome complex;receptor complex;high-density lipoprotein particle;microtubule associated complex;transcription regulator complex;cohesin complex;Sm-like protein family complex;chaperone complex;MCM core complex;ribonucleoprotein complex;eukaryotic translation initiation factor 3 complex	10412
+GO:0005245	HUMAN|HGNC=1399|UniProtKB=P54289	voltage-gated calcium channel activity	voltage-gated cation channel activity		67
+GO:0003774	HUMAN|HGNC=26234|UniProtKB=Q96H55	cytoskeletal motor activity	molecular_function	microtubule motor activity	253
+PC00032	HUMAN|HGNC=445|UniProtKB=Q7Z333	RNA helicase	RNA metabolism protein		346
+GO:0007166	HUMAN|HGNC=10724|UniProtKB=Q13214	cell surface receptor signaling pathway	signal transduction	extrinsic apoptotic signaling pathway;receptor signaling pathway via STAT;cell surface receptor signaling pathway involved in cell-cell signaling;immune response-regulating cell surface receptor signaling pathway;integrin-mediated signaling pathway;smoothened signaling pathway;lipopolysaccharide-mediated signaling pathway;cytokine-mediated signaling pathway;Notch signaling pathway;enzyme linked receptor protein signaling pathway;glutamate receptor signaling pathway	1827
+GO:0050807	HUMAN|HGNC=4023|UniProtKB=P51114	regulation of synapse organization	regulation of synapse structure or activity	regulation of postsynapse organization	30
+GO:0009653	HUMAN|HGNC=15788|UniProtKB=Q96DT0	anatomical structure morphogenesis	anatomical structure development	cell morphogenesis;tissue morphogenesis;tube morphogenesis;morphogenesis of a branching structure;developmental growth involved in morphogenesis;cellular component morphogenesis;animal organ morphogenesis;establishment of planar polarity;anatomical structure formation involved in morphogenesis;embryonic morphogenesis	1011
+GO:0008088	HUMAN|HGNC=4023|UniProtKB=P51114	axo-dendritic transport	transport along microtubule		28
+PC00227	HUMAN|HGNC=9852|UniProtKB=O95373,HUMAN|HGNC=23038|UniProtKB=Q9NUN5	transporter	protein class	primary active transporter;secondary carrier transporter;ion channel	8021
+GO:0016790	HUMAN|HGNC=4908|UniProtKB=Q6NVY1	thiolester hydrolase activity	hydrolase activity, acting on ester bonds		203
+GO:0006635	HUMAN|HGNC=4801|UniProtKB=P40939,HUMAN|HGNC=4803|UniProtKB=P55084	fatty acid beta-oxidation	lipid oxidation		151
+GO:0003735	HUMAN|HGNC=21370|UniProtKB=Q6DKI1	structural constituent of ribosome	structural molecule activity		1037
+GO:0009081	HUMAN|HGNC=4908|UniProtKB=Q6NVY1	branched-chain amino acid metabolic process	cellular amino acid metabolic process	branched-chain amino acid biosynthetic process	126
+GO:0019888	HUMAN|HGNC=9311|UniProtKB=Q13362	protein phosphatase regulator activity	phosphatase regulator activity	protein phosphatase inhibitor activity	282
+GO:0006954	HUMAN|HGNC=9236|UniProtKB=P37231	inflammatory response	defense response		227
+GO:0006629	HUMAN|HGNC=9236|UniProtKB=P37231	lipid metabolic process	organic substance metabolic process	steroid metabolic process;lipid catabolic process;cellular lipid metabolic process;liposaccharide metabolic process;lipid biosynthetic process	2257
+GO:0002020	HUMAN|HGNC=1546|UniProtKB=P50454,HUMAN|HGNC=8985|UniProtKB=P20848	protease binding	enzyme binding		171
+PC00153	HUMAN|HGNC=3008|UniProtKB=Q9NY33,HUMAN|HGNC=7158|UniProtKB=P39900,HUMAN|HGNC=7154|UniProtKB=P08473	metalloprotease	protease		754
+GO:0046330	HUMAN|HGNC=16077|UniProtKB=Q9NRW4	positive regulation of JNK cascade	regulation of JNK cascade		27
+GO:0044267	HUMAN|HGNC=1546|UniProtKB=P50454,HUMAN|HGNC=8985|UniProtKB=P20848	cellular protein metabolic process	cellular macromolecule metabolic process	cellular protein modification process;cellular protein catabolic process;translation;mitochondrial protein processing;signal peptide processing	8120
+GO:0006468	HUMAN|HGNC=4023|UniProtKB=P51114,HUMAN|HGNC=882|UniProtKB=Q13535	protein phosphorylation	cellular protein modification process	peptidyl-threonine phosphorylation;peptidyl-serine phosphorylation;phosphorylation of RNA polymerase II C-terminal domain;protein autophosphorylation;peptidyl-tyrosine phosphorylation	2028
+PC00257	HUMAN|HGNC=18423|UniProtKB=O75140,HUMAN|HGNC=9858|UniProtKB=P47736	GTPase-activating protein	G-protein modulator		460
+GO:0005096	HUMAN|HGNC=18423|UniProtKB=O75140,HUMAN|HGNC=9858|UniProtKB=P47736	GTPase activator activity	GTPase regulator activity		324
+GO:0006508	HUMAN|HGNC=1546|UniProtKB=P50454,HUMAN|HGNC=8985|UniProtKB=P20848	proteolysis	protein metabolic process	protein modification by small protein removal;proteolysis involved in cellular protein catabolic process;protein processing;membrane protein proteolysis	2855
+GO:0022853	HUMAN|HGNC=817|UniProtKB=P23634,HUMAN|HGNC=815|UniProtKB=Q01814	active ion transmembrane transporter activity	ion transmembrane transporter activity	solute:cation symporter activity;solute:cation antiporter activity	765
+GO:0031305	HUMAN|HGNC=28727|UniProtKB=Q9BUR5	integral component of mitochondrial inner membrane	intrinsic component of mitochondrial inner membrane		177
+GO:0050920	HUMAN|HGNC=10724|UniProtKB=Q13214	regulation of chemotaxis	regulation of response to external stimulus	positive regulation of chemotaxis	54
+GO:0008610	HUMAN|HGNC=4249|UniProtKB=O95749,HUMAN|HGNC=3569|UniProtKB=P33121	lipid biosynthetic process	organic substance biosynthetic process	lipopolysaccharide biosynthetic process;phospholipid biosynthetic process;steroid biosynthetic process;fatty acid biosynthetic process;carotenoid biosynthetic process;membrane lipid biosynthetic process;glycerolipid biosynthetic process	1137
+GO:0009968	HUMAN|HGNC=4565|UniProtKB=Q14449,HUMAN|HGNC=25890|UniProtKB=Q86YD3	negative regulation of signal transduction	negative regulation of response to stimulus	negative regulation of Wnt signaling pathway;negative regulation of intracellular signal transduction;negative regulation of Notch signaling pathway;negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway;negative regulation of apoptotic signaling pathway	374
+GO:0005832	HUMAN|HGNC=1617|UniProtKB=P50991	chaperonin-containing T-complex	cytosol		42
+GO:0005905	HUMAN|HGNC=15514|UniProtKB=Q13492	clathrin-coated pit	endomembrane system		74
+GO:0051015	HUMAN|HGNC=26234|UniProtKB=Q96H55	actin filament binding	actin binding		484
+GO:0015081	HUMAN|HGNC=11068|UniProtKB=P32418	sodium ion transmembrane transporter activity	metal ion transmembrane transporter activity	organic acid:sodium symporter activity;sodium channel activity	248
+GO:0071705	HUMAN|HGNC=30225|UniProtKB=Q9NWF4	nitrogen compound transport	transport	L-amino acid transport;amino acid transport;quaternary ammonium group transport;amide transport;nucleobase-containing compound transport;protein transport;choline transport	2443
+GO:0046847	HUMAN|HGNC=4023|UniProtKB=P51114	filopodium assembly	plasma membrane bounded cell projection assembly		18
+GO:0032838	HUMAN|HGNC=4023|UniProtKB=P51114	plasma membrane bounded cell projection cytoplasm	plasma membrane bounded cell projection	ciliary plasm	154
+GO:0098839	HUMAN|HGNC=815|UniProtKB=Q01814	postsynaptic density membrane	postsynaptic density	integral component of postsynaptic density membrane	38
+GO:0030199	HUMAN|HGNC=1546|UniProtKB=P50454	collagen fibril organization	extracellular matrix organization		11
+GO:0007268	HUMAN|HGNC=4023|UniProtKB=P51114	chemical synaptic transmission	anterograde trans-synaptic signaling	synaptic transmission, cholinergic;neurotransmitter secretion;synaptic transmission, glutamatergic;chemical synaptic transmission, postsynaptic;neuromuscular synaptic transmission	556
+PC00073	HUMAN|HGNC=1617|UniProtKB=P50991	chaperonin	chaperone		68
+GO:0030990	HUMAN|HGNC=24483|UniProtKB=Q9Y4R7	intraciliary transport particle	protein-containing complex	intraciliary transport particle B;intraciliary transport particle A	437
+GO:0097478	HUMAN|HGNC=5967|UniProtKB=Q14626	leaflet of membrane bilayer	membrane		626
+GO:0006637	HUMAN|HGNC=3569|UniProtKB=P33121,HUMAN|HGNC=15814|UniProtKB=Q9NR19,HUMAN|HGNC=115|UniProtKB=P53396	acyl-CoA metabolic process	sulfur compound metabolic process		175
+GO:0036464	HUMAN|HGNC=4023|UniProtKB=P51114	cytoplasmic ribonucleoprotein granule	cytoplasm	cytoplasmic stress granule;P granule;P-body	332
+GO:0008514	HUMAN|HGNC=30225|UniProtKB=Q9NWF4	organic anion transmembrane transporter activity	anion transmembrane transporter activity	L-glutamate transmembrane transporter activity;L-lysine transmembrane transporter activity;succinate transmembrane transporter activity	368
+PC00038	HUMAN|HGNC=2896|UniProtKB=P10515	acetyltransferase	transferase		493
+GO:0016874	HUMAN|HGNC=24483|UniProtKB=Q9Y4R7	ligase activity	catalytic activity	ligase activity, forming carbon-sulfur bonds	732
+GO:0016791	HUMAN|HGNC=8872|UniProtKB=P16118	phosphatase activity	phosphoric ester hydrolase activity	inositol phosphate phosphatase activity;phosphatidylinositol-3,5-bisphosphate phosphatase activity;phosphoprotein phosphatase activity;nucleotidase activity	1263
+GO:0030335	HUMAN|HGNC=10724|UniProtKB=Q13214	positive regulation of cell migration	regulation of cell migration	positive regulation of leukocyte migration	92
+GO:0004252	HUMAN|HGNC=1546|UniProtKB=P50454,HUMAN|HGNC=8985|UniProtKB=P20848	serine-type endopeptidase activity	endopeptidase activity		323
+GO:0008483	HUMAN|HGNC=23989|UniProtKB=Q96QU6,HUMAN|HGNC=4552|UniProtKB=P24298	transaminase activity	transferase activity		198
+GO:0003682	HUMAN|HGNC=8919|UniProtKB=O43189,HUMAN|HGNC=1066|UniProtKB=P35226	chromatin binding	binding	nucleosome binding;chromatin DNA binding	524
+GO:0007411	HUMAN|HGNC=10724|UniProtKB=Q13214	axon guidance	axonogenesis	motor neuron axon guidance	184
+GO:0010324	HUMAN|HGNC=15514|UniProtKB=Q13492	membrane invagination	membrane organization	phagocytosis, engulfment	671
+GO:1901264	HUMAN|HGNC=30220|UniProtKB=Q96AA3	carbohydrate derivative transport	organic substance transport		68
+GO:0000122	HUMAN|HGNC=9236|UniProtKB=P37231,HUMAN|HGNC=1066|UniProtKB=P35226	negative regulation of transcription by RNA polymerase II	regulation of transcription by RNA polymerase II		498
+GO:0009605	HUMAN|HGNC=9236|UniProtKB=P37231	response to external stimulus	response to stimulus	response to extracellular stimulus;response to mechanical stimulus;taxis;cellular response to external stimulus;response to external biotic stimulus	1342
+GO:0043542	HUMAN|HGNC=15788|UniProtKB=Q96DT0	endothelial cell migration	multicellular organismal process		18
+PC00258	HUMAN|HGNC=11068|UniProtKB=P32418,HUMAN|HGNC=30225|UniProtKB=Q9NWF4	secondary carrier transporter	transporter	amino acid transporter;mitochondrial carrier protein	1639
+GO:0005509	HUMAN|HGNC=3357|UniProtKB=Q13822	calcium ion binding	metal ion binding		606
+GO:0042383	HUMAN|HGNC=11068|UniProtKB=P32418,HUMAN|HGNC=1399|UniProtKB=P54289	sarcolemma	plasma membrane		53
+GO:0006915	HUMAN|HGNC=1976|UniProtKB=O60543,HUMAN|HGNC=17586|UniProtKB=Q9NZJ7,HUMAN|HGNC=17587|UniProtKB=Q9Y6C9	apoptotic process	programmed cell death	neuron apoptotic process;execution phase of apoptosis;apoptotic signaling pathway;apoptotic mitochondrial changes	389
+GO:0032088	HUMAN|HGNC=16223|UniProtKB=Q86VX2	negative regulation of NF-kappaB transcription factor activity	negative regulation of DNA-binding transcription factor activity		11
+GO:0016126	HUMAN|HGNC=3133|UniProtKB=Q15125	sterol biosynthetic process	sterol metabolic process	cholesterol biosynthetic process;ergosterol biosynthetic process	118
+GO:0004467	HUMAN|HGNC=3569|UniProtKB=P33121	long-chain fatty acid-CoA ligase activity	ligase activity, forming carbon-sulfur bonds		65
+GO:0000380	HUMAN|HGNC=4023|UniProtKB=P51114	alternative mRNA splicing, via spliceosome	mRNA splicing, via spliceosome		62
+GO:0016616	HUMAN|HGNC=19708|UniProtKB=Q86WU2,HUMAN|HGNC=4570|UniProtKB=Q9UBQ7,HUMAN|HGNC=4801|UniProtKB=P40939	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	oxidoreductase activity		816
+GO:0016853	HUMAN|HGNC=3133|UniProtKB=Q15125	isomerase activity	catalytic activity	peptidyl-prolyl cis-trans isomerase activity;protein disulfide isomerase activity;racemase and epimerase activity, acting on carbohydrates and derivatives;intramolecular transferase activity	585
+GO:0098798	HUMAN|HGNC=4801|UniProtKB=P40939	mitochondrial protein-containing complex	mitochondrion	mitochondrial outer membrane translocase complex;mitochondrial large ribosomal subunit;inner mitochondrial membrane protein complex;mitochondrial small ribosomal subunit	597
+GO:0140535	HUMAN|HGNC=9311|UniProtKB=Q13362	intracellular protein-containing complex	protein-containing complex	mannosyltransferase complex;proteasome complex;protein acetyltransferase complex;TRAPP complex;DNA polymerase complex;RNA polymerase complex;CCR4-NOT complex;ubiquitin ligase complex;elongator holoenzyme complex;guanyl-nucleotide exchange factor complex	1944
+GO:0035082	HUMAN|HGNC=24483|UniProtKB=Q9Y4R7	axoneme assembly	cilium assembly	sperm axoneme assembly;axonemal dynein complex assembly	267
+PC00139	HUMAN|HGNC=1784|UniProtKB=P38936	kinase inhibitor	kinase modulator		153
+GO:0048675	HUMAN|HGNC=10724|UniProtKB=Q13214	axon extension	axonogenesis		49
+GO:0034204	HUMAN|HGNC=30220|UniProtKB=Q96AA3	lipid translocation	lipid transport	phospholipid translocation	110
+GO:0032102	HUMAN|HGNC=10724|UniProtKB=Q13214	negative regulation of response to external stimulus	regulation of response to external stimulus	negative regulation of blood coagulation;negative regulation of inflammatory response	72
+GO:0035064	HUMAN|HGNC=8919|UniProtKB=O43189	methylated histone binding	histone binding		57
+GO:0098794	HUMAN|HGNC=11068|UniProtKB=P32418	postsynapse	synapse	postsynaptic specialization;dendritic spine;postsynaptic membrane	226
+PC00079	HUMAN|HGNC=20498|UniProtKB=Q7Z3D6	cyclase	lyase	adenylate cyclase;guanylate cyclase	149
+GO:0043025	HUMAN|HGNC=4023|UniProtKB=P51114	neuronal cell body	somatodendritic compartment	perikaryon	119
+GO:0004622	HUMAN|HGNC=3357|UniProtKB=Q13822	lysophospholipase activity	carboxylic ester hydrolase activity		23
+GO:1901565	HUMAN|HGNC=3357|UniProtKB=Q13822,HUMAN|HGNC=4908|UniProtKB=Q6NVY1	organonitrogen compound catabolic process	organic substance catabolic process	purine-containing compound catabolic process;nucleoside catabolic process;aromatic amino acid family catabolic process;protein catabolic process;arginine catabolic process;sphingolipid catabolic process;pyrimidine nucleobase catabolic process	2509
+GO:0000266	HUMAN|HGNC=2973|UniProtKB=O00429	mitochondrial fission	organelle fission		38
+GO:0006325	HUMAN|HGNC=8919|UniProtKB=O43189	chromatin organization	chromosome organization	chromatin assembly or disassembly;heterochromatin organization;regulation of gene expression, epigenetic;chromatin remodeling;DNA replication-independent chromatin organization	479
+GO:0006366	HUMAN|HGNC=783|UniProtKB=P18846,HUMAN|HGNC=20815|UniProtKB=Q9Y4C1,HUMAN|HGNC=30027|UniProtKB=Q6IE81,HUMAN|HGNC=9236|UniProtKB=P37231,HUMAN|HGNC=1066|UniProtKB=P35226	transcription by RNA polymerase II	transcription, DNA-templated	transcription elongation from RNA polymerase II promoter;snRNA transcription by RNA polymerase II;transcription initiation from RNA polymerase II promoter	4344
+PC00092	HUMAN|HGNC=23316|UniProtKB=O14756,HUMAN|HGNC=19708|UniProtKB=Q86WU2,HUMAN|HGNC=7707|UniProtKB=P28331,HUMAN|HGNC=3978|UniProtKB=O75891,HUMAN|HGNC=10680|UniProtKB=P31040,HUMAN|HGNC=4570|UniProtKB=Q9UBQ7,HUMAN|HGNC=21597|UniProtKB=Q6JQN1,HUMAN|HGNC=20499|UniProtKB=Q9H9P8,HUMAN|HGNC=406|UniProtKB=P30038	dehydrogenase	oxidoreductase		1462
+GO:0035556	HUMAN|HGNC=13900|UniProtKB=Q9HBY8,HUMAN|HGNC=392|UniProtKB=P31751	intracellular signal transduction	signal transduction	NIK/NF-kappaB signaling;inositol lipid-mediated signaling;MAPK cascade;TOR signaling;hippo signaling;protein kinase A signaling;protein kinase B signaling;signal transduction by p53 class mediator;cell cycle checkpoint signaling;I-kappaB kinase/NF-kappaB signaling;second-messenger-mediated signaling;signal transduction in response to DNA damage;small GTPase mediated signal transduction;intrinsic apoptotic signaling pathway;stress-activated protein kinase signaling cascade	2139
+GO:0061512	HUMAN|HGNC=24483|UniProtKB=Q9Y4R7	protein localization to cilium	protein localization to organelle	protein localization to ciliary transition zone	302
+GO:0005886	HUMAN|HGNC=3133|UniProtKB=Q15125,HUMAN|HGNC=4565|UniProtKB=Q14449,HUMAN|HGNC=18242|UniProtKB=Q8NEU8,HUMAN|HGNC=9852|UniProtKB=O95373,HUMAN|HGNC=3569|UniProtKB=P33121,HUMAN|HGNC=1546|UniProtKB=P50454,HUMAN|HGNC=7154|UniProtKB=P08473,HUMAN|HGNC=30220|UniProtKB=Q96AA3	plasma membrane	cell periphery	intrinsic component of plasma membrane;external side of plasma membrane;plasma membrane region;leading edge membrane;plasma membrane protein complex;extrinsic component of plasma membrane;sarcolemma;cytoplasmic side of plasma membrane	15135
+GO:0000785	HUMAN|HGNC=20815|UniProtKB=Q9Y4C1	chromatin	chromosome	Sin3-type complex;SWI/SNF superfamily-type complex;heterochromatin	454
