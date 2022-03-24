@@ -63,7 +63,7 @@ Kallisto result files were imported and combined in R using the tximport package
 ---
 
 ### 3. Analyses of differential isoform usage and gene expression in tappAS
-Raw count and experimental design files generated in the previous step were loaded into the [tappAS GUI](https://app.tappas.org/) to create a separate project for each tissue. Relevant import and analysis paramaters are provided below.
+Raw count and experimental design files generated in the previous step were loaded into the [tappAS GUI](https://app.tappas.org/) to create a separate project for each tissue. Relevant import and analysis parameters are provided below.
 
 - Import parameters:
   - Experiment type: Single series time-course
