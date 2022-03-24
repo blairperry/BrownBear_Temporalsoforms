@@ -255,7 +255,7 @@ mus.SwitchListAnalyzed <- analyzePFAM(
 )
 
 
-Analyze for alternative splicing ----------------------------------------
+# Analyze for alternative splicing ----------------------------------------
 
 adi.SwitchListAnalyzed <- analyzeAlternativeSplicing(
   switchAnalyzeRlist = adi.SwitchListAnalyzed,showProgress = T
