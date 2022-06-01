@@ -16,7 +16,7 @@ For questions, please contact blair.perry(at)wsu.edu.
 
 
 ## Software
-The following software was used processing and analysis:
+The following software was used for data processing and analysis:
 - Kallisto v0.46.1 (isoform-level expression quantification)
 - tappAS v1.0.7 (differential isoform usage and gene expression analyses)
 - pfam_scan.pl v1.6 (identification of protein domains in isoform sequences)
